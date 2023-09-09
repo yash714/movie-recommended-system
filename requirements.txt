@@ -1,0 +1,8 @@
+### dependency
+streamlit
+matplotlib
+nltk
+scikit-learn
+
+### local packages -
+-e . 
